@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\a_mog\Desktop\New folder\New folder\IPC144_SLG_w3\IPC144_SLG_w3\main.c(23,2): warning C4013: 'srand' undefined; assuming extern returning int
+C:\Users\a_mog\Desktop\New folder\New folder\IPC144_SLG_w3\IPC144_SLG_w3\main.c(24,32): warning C4013: 'rand' undefined; assuming extern returning int
+C:\Users\a_mog\Desktop\New folder\New folder\IPC144_SLG_w3\IPC144_SLG_w3\main.c(59,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  IPC144_SLG_w3.vcxproj -> C:\Users\a_mog\Desktop\New folder\New folder\IPC144_SLG_w3\x64\Debug\IPC144_SLG_w3.exe
