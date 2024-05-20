@@ -4,7 +4,7 @@
 #include <time.h>
 
 /*
-In this code we are building a guess the number game! 
+In this code we are building a guess the number game!
 
 Code the parts that mentioned TODO in the comments.
 */
@@ -30,13 +30,10 @@ int main(void) {
 		int isEqual = 0, isLarger = 0, isSmaller = 0;
 		printf("Take guess: ");
 		
-		// TODO - Write a code the get the user input and save it in "input" variable. NOTE: the input should be "int".
-		scanf("%d",&input);
+		// TODO - Write a code to get the user input and save it in "input" variable. NOTE: the input should be "int".
 		
-		// TODO - Write a code to check if the user's number is equal, smaller, or bigger than randomNo. and save each of them in the "isEqual", "isLarger", and "isSmaller" variables. 
-		isEqual = input == randomNo;
-		isLarger = input > randomNo;
-		isSmaller = input < randomNo;
+		
+		// TODO - Write a code to check if the user's number is equal, smaller, or bigger than randomNo, and save each of them in the "isEqual", "isLarger", and "isSmaller" variables.
 
 		//Do not change anything here
 		if (isEqual) {
@@ -55,10 +52,10 @@ int main(void) {
 
 	}
 
-	//TODO now devide the number by 1.25. Remember to round the number manually and save it in result variable. 
+	// TODO - Now divide the number by 1.25. Remember to round the number manually and save it in result variable.
 	
 
-	//TODO print the result with 3 decimal points. 
+	// TODO - Print the result with 3 decimal points. 
 	
 
 
