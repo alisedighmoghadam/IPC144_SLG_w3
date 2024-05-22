@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <stdio.h>
+// you don't need to use this library later. 
 #include <time.h>
 
 /*
