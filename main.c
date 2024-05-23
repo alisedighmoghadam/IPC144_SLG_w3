@@ -53,7 +53,7 @@ int main(void) {
 
 	}
 
-	// TODO - Now divide the number by 1.25. Remember to round the number manually and save it in result variable.
+	// TODO - Now divide the number by 1.24. Remember to round the number by 3 decimal points manually and save it in result variable.
 	
 
 	// TODO - Print the result with 3 decimal points. 
